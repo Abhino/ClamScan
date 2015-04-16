@@ -1,6 +1,6 @@
 Mobile Malware Scanning using ClamAV 
-========
-Smart phone application for Android devices for scanning files in mobile devices with an Open Source Antivirus solution.
+========+++++++
+Androidapplication for mobile devices for scanning files with an Open Source Antivirus solution. The antivirus solution used is ClamAV which is an open source antivirus engine for detecting trojans, viruses.
 
 Steps used by the application:
 
